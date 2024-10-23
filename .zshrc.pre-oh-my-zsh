@@ -1,0 +1,2 @@
+# IAC
+export PATH=$PATH:$HOME/.iac/bin
